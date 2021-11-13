@@ -1,0 +1,43 @@
+compte rendu pour la premiere semaine à YOUCODE:
+1-GIT:
+
+-GIT est un logiciel de gestion de version. 
+-Apprendre comment créer et modifier des répertoires dans GitHub utilisant GIT.
+ les commands qu'on a utuliser en GIT:
+   *git --version:savoir si GIT a ete instale;
+   *git clone:copier un depot existant dans un nouveau repertoire après de l'indique;
+   *git add:to stage
+   *git status:afficher le statuts des fichiers;
+   *git push:envoyer les modifications au serveur GIT; 
+   *git commit -m "..":pour enregistrer les changement dans le dépôt local; 
+ Commands linux/cmd: cd, mkdir,ls, dir, touch, pwd.
+
+-les veilles:La diffrence entre GitHub et GitLab, GitHub et VSN, GitHub et AzureDEVOPS.
+-travaille en groupes.
+-Live coding.
+
+2-Langage c:
+
+-langage c est un langage de programation ,inventé au début des années 1970 avec UNIX.
+-c'est un langage compilé et il est basé sur les fonctions.
+    *fonction printf:pour écrire 
+    *fonction scanf:pour prendre les valeurs
+-les principales bibliotheques standars au langage c:
+    * #include <stdio.h>
+    * #include <stdlib.h>
+    * #include <math.h>...
+-savoir les opérateurs arithmetic:+ - * /
+-Les veilles: histoire d langeg c, la différence entre c et c++, différence entre la compilation et interpretation, les variables.
+-live coding.
+
+
+
+NB:
+pour moi j'ai besoin d'autres challenges dans GIT, je suis pas encore à l'aise avec les commandes. 
+
+  
+
+
+
+
+  
